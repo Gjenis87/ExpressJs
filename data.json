@@ -1,0 +1,32 @@
+[{
+    "id":1,
+    "name":"Gjenis",
+    "surname":"Alkovac",
+    "age":21
+},
+{
+    "id":2,
+    "name":"Elior",
+    "surname":"Paqarada",
+    "age":22
+},
+{
+    "id":3,
+    "name":"Drilon",
+    "surname":"Cocaj",
+    "age":23
+},
+{
+    "id":4,
+    "name":"Salihu",
+    "surname":"Abudllah",
+    "age":33
+},
+{
+    "id":5,
+    "name":"Hadis",
+    "surname":"Fetollari",
+    "age":20
+
+}
+]
